@@ -5,3 +5,7 @@
 - src: git+https://github.com/geerlingguy/ansible-role-pip.git
   version: master
   name: pip
+
+- src: git+https://github.com/matthew-williams/deluge-server-webui.role.git
+  version: master
+  name: deluge
