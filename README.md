@@ -8,7 +8,7 @@
 
 ### Requirements
 
- - Ansible 2.4 or Greater
+- Ansible 2.4 or Greater
 
 ### Tested on
 

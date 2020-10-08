@@ -1,6 +1,6 @@
-- src: git+https://github.com/geerlingguy/ansible-role-docker.git
+- src: git+https://github.com/matthew-williams/plex-minecraft-server.role.git
   version: master
-  name: docker
+  name: plex-minecraft-server.role
 
 - src: git+https://github.com/geerlingguy/ansible-role-pip.git
   version: master
